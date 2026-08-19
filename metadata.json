@@ -2,5 +2,7 @@
   "name": "AuraSpend - Premium Expense Tracker",
   "description": "Full-stack SaaS-style expense tracking dashboard with income/expense monitoring, dynamic analytics charts, category budgeting, and multi-user authentication by Modassir Raja.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
